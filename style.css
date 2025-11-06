@@ -1,0 +1,22 @@
+body, html {
+    background-color: #C5C6C7;
+    margin: 0;
+    padding: 0;
+
+}
+header {
+    background-color: #C9AD93;
+}
+
+button {
+    background-color: #879A77;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+#MainTitle {
+    color: #879A77;
+    
+}
